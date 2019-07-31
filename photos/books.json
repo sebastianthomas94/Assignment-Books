@@ -95,7 +95,7 @@
         "category":"Fiction",
         "image":"Stillme-fiction.jpg"
     } 
-	   , {
+	    {
         "title":"Khasakinnte Edihasam",
         "id":"13",
         "author":"O V Vijayan",
@@ -103,7 +103,7 @@
         "category":"Fiction",
         "image":"Khasakinte Edihasam.jpg"
     } 
-	  ,  {
+	    {
         "title":"The Old Man And The Sea",
         "id":"14",
         "author":"Ernest Hemingway",
@@ -111,7 +111,7 @@
         "category":"Fiction",
         "image":"the old man and the sea.jpg"
     } 
-	  ,  {
+	    {
         "title":"Immortals Of Meluha ",
         "id":"15",
         "author":"Amish Tripathi",
@@ -119,7 +119,7 @@
         "category":"Fiction",
         "image":"immortals of meluha.jpg"
     } 
-	 ,   {
+	    {
         "title":"God Of Small Things",
         "id":"16",
         "author":"Arundhati Roy",
@@ -127,7 +127,7 @@
         "category":"Fiction",
         "image":"god of small things.jpg"
     } 
-	  ,  {
+	    {
         "title":"PS I Love You",
         "id":"17",
         "author":"Cecelia Ahern",
